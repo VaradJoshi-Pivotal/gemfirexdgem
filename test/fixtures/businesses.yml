@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  numemp: 1
+  revenue: 1.5
+  nonprofit: false
+
+two:
+  name: MyString
+  numemp: 1
+  revenue: 1.5
+  nonprofit: false
